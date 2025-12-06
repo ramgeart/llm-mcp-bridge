@@ -1,11 +1,11 @@
 {
   "name": "@ramgeart/llm-mcp-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MCP Server for any OpenAI-compatible LLM API - Model quality analysis tools (LM Studio, Ollama, vLLM, OpenAI, etc.)",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
-    "llm-mcp-bridge": "./dist/index.js"
+    "llm-mcp-bridge": "dist/index.js"
   },
   "repository": {
     "type": "git",
